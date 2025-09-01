@@ -3,13 +3,13 @@
 	"id": "flashpoint",
 	"version": "${version}",
 	"name": "Flashpoint",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Minecraft Mod adding the power of super speed to Minecraft.",
 	"authors": [
-		"Me!"
+		"dylanjd"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/flashpoint",
+		"sources": "https://github.com/dylanjdex/flashpoint"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/flashpoint/icon.png",
