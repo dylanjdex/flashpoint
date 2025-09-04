@@ -1,5 +1,6 @@
 package dylanjd.flashpoint;
 
+import dylanjd.flashpoint.entities.ModEntities;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -20,5 +21,7 @@ public class Flashpoint implements ModInitializer {
 		// Proceed with mild caution.
 
 		//LOGGER.info("Hello Fabric world!");
+		ModEntities.init();
+
 	}
 }
