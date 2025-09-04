@@ -6,3 +6,4 @@
 /kill @e[type=!minecraft:player]
 /kill @e[type=minecraft:pig]
 /summon flashpoint:lightning_trail
+/time set day
