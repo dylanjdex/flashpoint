@@ -1,0 +1,8 @@
+/summon flashpoint:lightning_trail
+/summon flashpoint:lightning_trail 100 63 100
+/time set day
+/summon flashpoint:lightning_trail 0 -60 0
+/tp @e[type=minecraft:pig] @p
+/kill @e[type=!minecraft:player]
+/kill @e[type=minecraft:pig]
+/summon flashpoint:lightning_trail
