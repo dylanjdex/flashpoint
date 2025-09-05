@@ -6,3 +6,12 @@
 /kill @e[type=!minecraft:player]
 /kill @e[type=minecraft:pig]
 /summon flashpoint:lightning_trail
+/time set day
+/tick rate 10
+/tick rate 5
+/tick rate 20
+/time set night
+/effect give @p minecraft:speed 10 0 true
+/time set daaya
+/time set daay
+/time set day
